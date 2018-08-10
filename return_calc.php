@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<hmtl>
+<html>
     <style>
         header{
             font-family:papyrus;
@@ -103,4 +103,4 @@
             <br><br><a href="home.php">HOME</a>
         </div>
     </body>
-</hmtl>
+</html>
