@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<hmtl>
+<html>
     <style>
         header{
             font-family:papyrus;
@@ -96,4 +96,4 @@
             <a href="home.php">GO TO HOME</a>
         </div>
     </body>
-</hmtl>
+</html>
