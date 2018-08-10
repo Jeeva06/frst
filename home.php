@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<hmtl>
+<html>
     <style>
         header{
             font-family:papyrus;
@@ -115,4 +115,4 @@
             </form>
         </div>
     </body>
-</hmtl>
+</html>
